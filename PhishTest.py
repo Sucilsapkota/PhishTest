@@ -1,6 +1,6 @@
 #=============================#
 #          PhishTest          #
-#  	   Author: dhruvin917     #
+#      Author: dhruvin917     #
 #        Version: 1.0         #
 #=============================#
 
