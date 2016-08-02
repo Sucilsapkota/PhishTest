@@ -1,11 +1,15 @@
 # PhishTest
-Python script that validates if a URL is malicious. 
-Current Version: 1.0
+__Current Version: 1.0__
+<p>Python script that validates if a URL is malicious. </p>
 
 # Requirements
-Python 2.7.x
+Python Version:  2.7.x
 
-Libraries: Json, SimpleJson, Urlib, Urlib2
+Libraries: 
+* Json
+* SimpleJson
+* Urlib
+* Urlib2
 
 Application Keys:
 * VirusTotal
